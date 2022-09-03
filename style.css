@@ -1,0 +1,7 @@
+body{
+    font-family: sans-serif;
+}
+
+.intro{
+    display: flex;
+}
